@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Pratik Bhudke
+# Hi there! 👋 I'm Kranti Shinde
 
-🚀 Passionate **Full Stack Developer** with expertise in **Java, Spring Boot, Angular, and DevOps**. I love building scalable web applications, exploring new technologies, and contributing to open-source projects.
+🚀 Passionate **Full Stack Developer** with expertise in **Java, Spring Boot, React, and DevOps**. I love building scalable web applications, exploring new technologies, and contributing to open-source projects.
 
 ## 👨‍💻 About Me
 - 🎓 **BE in Information Technology**
