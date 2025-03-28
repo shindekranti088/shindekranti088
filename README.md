@@ -3,7 +3,7 @@
 🚀 Passionate **Full Stack Developer** with expertise in **Java, Spring Boot, React, and DevOps**. I love building scalable web applications, exploring new technologies, and contributing to open-source projects.
 
 ## 👨‍💻 About Me
-- 🎓 **BE in Information Technology**
+- 🎓 **BTech in  Electronics And Telecommunication**
 - 💻 **Tech Enthusiast & Problem Solver**
 - 🎯 Focused on building robust **backend systems & scalable frontend architectures**
 
@@ -72,7 +72,7 @@
 
 <h2 align="center">📬 Connect with Me </h2>
 <p align="center">
-  <a href="mailto:pratikbhudke4@gmail.com">
+  <a href="mailto:shindekranti088@gmail.com">
     <img src="https://img.icons8.com/fluency/80/000000/gmail.png" alt="Email" />
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -82,7 +82,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/pratiksbhudke" target="_blank">
+  <a href="https://www.linkedin.com/in/shindekranti/" target="_blank">
     <img src="https://img.icons8.com/color/80/000000/linkedin.png" alt="LinkedIn" />
   </a>
 </p>
